@@ -24,8 +24,9 @@ We have the experience and ability to perform the services you need from us and 
 
 ###Getting down to the nitty gritty
 
-What we need from you
-Below is a list of items we’ll need up front from you. Every project is slightly different, so there may be things we’ve missed from this list, but we will let you know as soon as we’re able if we’ve forgotten something we need.
+What we need from you.
+
+Below is a list of items we’ll need up front from you. Every project is slightly different, so there may be things we’ve missed from this list, but we will let you know as soon as we’re able if we’ve overlooked something we need.
 
 * [LIST OF NEEDS] *includes credentials, access to any necessary services or assets, etc*
 
@@ -39,6 +40,8 @@ We write tests before we write our code, which allows us to make sure that all r
 ####Version Control
 Git allows us to keep track of all changes that happen in your application. This way, if a bug is introduced we can quickly find where it was added and roll back to the previous bug-free state while we fix things up! We require code be under version control so we can work on your application with your employees or other contractors without worrying that we may be undoing or overwriting each others changes.
 
+####Statement of Work
+
 ####Timeline
 This project is scheduled to begin [START DATE] and will last a [PROJECT DURATION].
 Below is the milestone schedule:
@@ -51,13 +54,16 @@ This contract will be declared complete when all work completed has been paid in
 Any additional development needed above and beyond what we have agreed to here must be accompanied by an additional contract which we will be happy to provide upon request. We retain the right to refuse additional work that is not specifically outlined in this document.
 
 ####Contact
-All communications will be made during regular business hours (Monday-Friday, 9am-5pm CST, excluding holidays) and we will return any contact requests within one business day unless we notify you ahead of time that we will be out of the office. Of course we understand that emergencies do arise, so in the case of one know that our hours will be billed at time and a half. We appreciate communication in a text-based medium, but understand that not all discussions are easily done this way. We’re happy to speak to you on the phone, over Skype/Google Hangout, or in person if you are in the [MY CITY] area, keeping in mind that any decisions that are made will be written down and require your written approval.
+All communications will be made during regular business hours (Monday-Friday, 9am-5pm New York Time, excluding holidays) and we will return any contact requests within one business day unless we notify you ahead of time that we will be out of the office. Of course we understand that you may have emergencies, so if one does arise, please note that we will do our best to meet your circumstances, but our hours will be billed at time and a half. We appreciate communication in a text-based medium, but understand that not all discussions are easily done this way. We’re happy to speak to you on the phone, over Skype/OovoO, or in person if you are in the [MY CITY] area, keeping in mind that any decisions that are made will be written down and require your written approval.
 
 As we value your time as well as our own, we ask that all meetings be scheduled a minimum of two business days in advance and be accompanied by an agenda so that we can be fully prepared. If we are unable to attend a meeting at your suggested time, we will be happy to provide two times that will work for us. Meetings must start and end on or before the time allotted and will be charged for whether you attend or not.
 
 ####Project Management
-If you do not have a preferred project management tool, we will provide you with a login for ours where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. We’ll be relying on you to participate by answering our questions, stating your approval, requesting changes, and verifying completeness through the tool as well. We ask for a one business day turnaround time on responses so we can keep things moving along at a pace that will allow us to hit the milestones we decided on together. 
+If you do not have a preferred project management tool, we will provide you with a login for ours where you will be able to see the status of the project down to the specific task, so you will always be kept up to date. We’ll be relying on you to participate by answering our questions, stating your approval, requesting changes, and verifying completeness through the tool as well. We ask for a two business day turnaround time on responses so we can keep things moving along at a pace that will allow us to hit the milestones we decided on together. 
 To keep the project organized and the management of it easier, we prefer not to communicate any of the information stated above over ordinary email.
+
+####Travel Time
+We try to make productive use of our travel time, but we do bill for hours out of the office travelling as well as travel expenses.
 
 ###Legal stuff
 
@@ -104,9 +110,12 @@ Although the language is simple, the intentions are serious and this contract is
 __________________________________________________
 Signed by [MY NAME] and on behalf of [MY COMPANY]
 
+Dated
 
 __________________________________________________
 Signed by [DECISION MAKER] and on behalf of [CLIENT COMPANY]
 
+Dated
 
-####Dated [DATE]
+P.S. - This letter becomes an agreement between us when we each have a signed and dated copy of it.
+
